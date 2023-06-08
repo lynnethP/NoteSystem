@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="vendor/autoload.php"
+         colors="true"
+         verbose="true"
+         stopOnFailure="false">
+    <testsuites>
+        <testsuite name="pruebas">
+            <!-- <file>test/LoginTest.php</file> -->
+            <!-- <file>test/RecuperarPassTest.php</file> -->
+            <!-- <file>test/AlumnosTest.php</file> -->
+            <!-- <file>test/ProfesoresTest.php</file> -->
+            <!-- <file>test/PeriodosTest.php</file> -->
+            <!-- <file>test/SaberesTest.php</file> -->
+            <!-- <file>test/SeccionesTest.php</file> -->
+            <!-- <file>test/ClasesTest.php</file> -->
+            <!-- <file>test/ProyectosTest.php</file> -->
+            <!-- <file>test/NotasTest.php</file> -->
+            <!-- <file>test/UsuariosTest.php</file> -->
+            <!-- <file>test/ReportesTest.php</file> -->
+            <!-- <file>test/BitacoraTest.php</file> -->
+            <!-- <file>test/BloqueoTest.php</file> -->
+            <!-- <file>test/ModulosTest.php</file> -->
+            <!-- <file>test/PermisosTest.php</file> -->
+            <!-- <file>test/RolesTest.php</file> -->
+            <!-- <file>test/PerfilTest.php</file> -->
+            <!-- <file>test/NotificacionesTest.php</file> -->
+            <!-- <file>test/AyudaTest.php</file> -->
+            <!-- <file>test/MantenimientoTest.php</file> -->
+        </testsuite>
+    </testsuites>
+</phpunit>
